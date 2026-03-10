@@ -14,4 +14,4 @@ The exploit runs the following command on the host if successful: `env -u LD_LIB
 
 ## Demo
 
-<video src="demo.mp4" controls></video>
+<video controls width="800" src="https://github.com/otter-sec/qemu-escape/raw/master/demo.mp4"></video>
